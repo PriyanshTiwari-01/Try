@@ -1,2 +1,4 @@
 # Try
-Hello, this is a Try repository! 
+Hello, this is a Try repository!
+<br>
+Author - Priyansh Tiwarii
